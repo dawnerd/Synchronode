@@ -1,0 +1,19 @@
+{
+  "author": "Troy Whiteley <troy@somanyscientists.com>",
+  "name": "Synchronode",
+  "description": "Aids in synchronizing in memory data across multiple node instances.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dawnerd/Synchronode",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dawnerd/Synchronode.git"
+  },
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": ">=0.4.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
